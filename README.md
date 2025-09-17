@@ -1,10 +1,9 @@
-# The project has been taken over
-
-The project has been taken over by my friend. Please visit [this link](https://github.com/zixing131/myjump) for more information.
+# I found that someone changed the name of my software to J2meEmul and uploaded it to the kaios store without my consent, so this software will stop updating permanently until it is removed from the kaios store.
 
 ## KaiOS version
 
 If you care about the KaiOS version, please check the project's `~/kaios/java` folder for future updates.
+
 
 ## PC version
 
